@@ -40,4 +40,4 @@ client.once("ready", (client) => {
   console.log("%s is Ready", client.user.tag);
 });
 
-client.login(process.env.token);
+client.login("MTA4NTU5Mjk2MTQ0Nzg5OTEzNg.GwcZKt.jRwulHNnXZT-nZHDtgrNRtquN1hDf6P58Jycb0");
